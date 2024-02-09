@@ -7,6 +7,7 @@ Une liste de lien vers des jeux numworks.
 - [Jetpack Bird](https://my.numworks.com/python/thenaincroyable/jetpack_bird))
 - [Pong](https://my.numworks.com/python/thenaincroyable/pong)
 - [Pac-Man](https://my.numworks.com/python/fedyna-kevin/pacman)
+- [Morpion](https://my.numworks.com/python/florian-allard/puissance4)
 
 # Liens vers des animations :
 - [Matrix](https://my.numworks.com/python/thenaincroyable/matrix)
